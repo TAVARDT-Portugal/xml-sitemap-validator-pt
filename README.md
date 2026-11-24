@@ -5,7 +5,7 @@
 
 Auditoria tecnica de sitemaps XML e sitemap indexes, validacao de integridade de ligacoes, conformidade sitemaps.org e rastreabilidade.
 
-Desenvolvido e mantido pelo departamento de indexacao tecnica da **TAVARDT Portugal**.
+Desenvolvido e mantido pelo departamento de indexacao tecnica da **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python sitemap_validator.py https://exemplo.pt/sitemap.xml -json
 Para auditorias imediatas de ficheiros XML e gestao de indexacao:
 
 * **Verificador de Sitemap XML Oficial**
-* **[Portal Corporativo TAVARDT Portugal](https://ag.tavardt.com/pt/)**
+* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/pt/)**
 
 ***
 
 ## Consultoria em Indexacao e SEO Tecnico
 
-Para projetos complexos de rastreio de plataformas de larga escala e conformidade com Normas W3C e Protocolo Sitemaps.org, contacte a **TAVARDT Portugal**.
+Para projetos complexos de rastreio de plataformas de larga escala e conformidade com Normas W3C e Protocolo Sitemaps.org, contacte a **TAVARDT**.
 
 ***
 
