@@ -1,14 +1,13 @@
 # Verificador de Sitemap XML | TAVARDT Portugal
 
 [![Validador Sitemap](https://img.shields.io/badge/TAVARDT-Sitemap%20XML-5b3cf5.svg)](https://tools.tavardt.com/pt/verificador-sitemap-xml/)
-[![Jurisdicao](https://img.shields.io/badge/Jurisdicao-Portugal-00C853.svg)](https://ag.tavardt.com/pt/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Auditoria tecnica de sitemaps XML e sitemap indexes, validacao de integridade de ligacoes, conformidade sitemaps.org e rastreabilidade.
 
-Desenvolvido e mantido pelo departamento de indexacao tecnica da **[TAVARDT Portugal](https://ag.tavardt.com/pt/)**.
+Desenvolvido e mantido pelo departamento de indexacao tecnica da **TAVARDT Portugal**.
 
----
+***
 
 ## Capacidades de Validacao de Sitemaps XML
 
@@ -18,7 +17,7 @@ Desenvolvido e mantido pelo departamento de indexacao tecnica da **[TAVARDT Port
 * **Limites de Capacidade**: Verificacao das quotas oficiais de 50.000 entradas e limites dimensionais.
 * **Indice de Qualidade do Sitemap**: Avaliacao rigorosa de 0 a 100 com alertas tecnicos priorizados.
 
----
+***
 
 ## Instalacao e Execucao
 
@@ -33,20 +32,20 @@ python sitemap_validator.py https://exemplo.pt/sitemap.xml
 Para exportacao em JSON:
 
 ```bash
-python sitemap_validator.py https://exemplo.pt/sitemap.xml --json
+python sitemap_validator.py https://exemplo.pt/sitemap.xml -json
 ```
 
----
+***
 
 ## Plataforma Online de Diagnostico
 
 Para auditorias imediatas de ficheiros XML e gestao de indexacao:
 
-* **[Verificador de Sitemap XML Oficial](https://tools.tavardt.com/pt/verificador-sitemap-xml/)**
+* **Verificador de Sitemap XML Oficial**
 * **[Portal Corporativo TAVARDT Portugal](https://ag.tavardt.com/pt/)**
 
----
+***
 
 ## Consultoria em Indexacao e SEO Tecnico
 
-Para projetos complexos de rastreio de plataformas de larga escala e conformidade com Normas W3C e Protocolo Sitemaps.org, contacte a **[TAVARDT Portugal](https://ag.tavardt.com/pt/contato/)**.
+Para projetos complexos de rastreio de plataformas de larga escala e conformidade com Normas W3C e Protocolo Sitemaps.org, contacte a **TAVARDT Portugal**.
