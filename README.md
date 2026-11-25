@@ -6,8 +6,6 @@
 
 Ferramenta automatizada de verificacao de sitemaps XML em Portugal, assegurando conformidade com o protocolo Sitemaps.org e indexacao sem erros pelos motores de busca.
 
-Desenvolvido e mantido pela divisao de arquitetura de busca e indexacao da **TAVARDT Portugal**.
-
 ***
 
 ## Capacidades de Validacao de Sitemaps XML
@@ -38,15 +36,6 @@ python sitemap_validator.py https://exemplo.pt/sitemap.xml -json
 
 ***
 
-## Plataforma Online de Diagnostico
-
-Para auditorias imediatas de ficheiros XML e gestao de indexacao:
-
-* **Verificador de Sitemap XML Oficial**
-* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/pt/)**
-
-***
-
 ## Consultoria em Indexacao e SEO Tecnico
 
 Para projetos complexos de rastreio de plataformas de larga escala e conformidade com Normas W3C e Protocolo Sitemaps.org, contacte a **TAVARDT**.
@@ -64,7 +53,7 @@ Para projetos complexos de rastreio de plataformas de larga escala e conformidad
 ***
 
 ### Licença
-Distribuído sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes completos.
+Distribuído sob a Licença MIT.
 
 ***
 
