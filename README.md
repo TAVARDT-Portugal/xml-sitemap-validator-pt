@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://ag.tavardt.com/pt/">
+    <img src="https://ag.tavardt.com/img/tavardt-banner.png" alt="TAVARDT" width="1024" />
+  </a>
+</p>
+
 # Validador de Sitemap XML e Estrutura de Protocolo
 
 [![Validador Sitemap](https://img.shields.io/badge/TAVARDT-Sitemap%20XML-5b3cf5.svg)](https://tools.tavardt.com/pt/verificador-sitemap-xml/)
